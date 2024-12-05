@@ -14,7 +14,7 @@ This portfolio describes an Internet of Things (IoT) project aimed at detecting 
 ---
 
 ## Architecture Overview
-![IoT_AWS-Cloud.drawio](https://hackmd.io/_uploads/SkGsDxJV1l.png)
+![IoT_AWS-Cloud.drawio](images/IoT_AWS-Cloud.drawio.png)
 
 ### **Hardware**
 
@@ -53,7 +53,7 @@ This portfolio describes an Internet of Things (IoT) project aimed at detecting 
 1. **Hardware Setup**: 
 
    - Connect the PIR sensor, DHT11 sensor, and ESP32 microcontroller on a breadboard.
-   - Use jumper wires to connect the sensors to the appropriate pins on the ESP32.![Skärmbild 2024-12-04 145247](https://hackmd.io/_uploads/ByVCDg1N1g.png)
+   - Use jumper wires to connect the sensors to the appropriate pins on the ESP32.![Skärmbild 2024-12-04 145247](images/Skärmbild 2024-12-04 145247.png)
 
 
 2. **Arduino IDE Configuration**:
@@ -92,7 +92,7 @@ This portfolio describes an Internet of Things (IoT) project aimed at detecting 
 8. **Grafana Configuration**:
 
    - Set up Grafana and connect it to DynamoDB visualize motion and environmental data.
-   - Create dashboards for better insight into sensor activity.![Namnlöst diagram.drawio (2)](https://hackmd.io/_uploads/H1_-dlkVye.png)
+   - Create dashboards for better insight into sensor activity.![Namnlöst diagram.drawio (2)](images/Namnlöst diagram.drawio (2).png)
 
 
 
@@ -103,10 +103,10 @@ This portfolio describes an Internet of Things (IoT) project aimed at detecting 
 - Successfully integrated hardware and cloud services for a real-time IoT solution.
 - Achieved secure and reliable data transmission from ESP32 to AWS IoT Core.
 - Implemented automated data management using TTL and S3 lifecycle policies.
-- Deployed a Telegram bot for instant motion detection alerts.![Skärmbild 2024-12-04 143413](https://hackmd.io/_uploads/BJNSOeyEJl.png)
+- Deployed a Telegram bot for instant motion detection alerts.![Skärmbild 2024-12-04 143413](images/Skärmbild 2024-12-04 143413.png)
 
 
-- Visualized telemetry data effectively using Grafana.![Skärmbild 2024-12-04 143851](https://hackmd.io/_uploads/SJMPdxy4ke.png)
+- Visualized telemetry data effectively using Grafana.![Skärmbild 2024-12-04 143851](images/Skärmbild 2024-12-04 143851.png)
 
 
 
