@@ -1,7 +1,4 @@
----
-title: 'Portfolio: IoT Motion Detectio'
 
----
 
 ## IoT Motion Detection and Environmental Monitoring System with AWS Integration
 
